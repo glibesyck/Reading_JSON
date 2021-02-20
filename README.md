@@ -1,5 +1,5 @@
 ## Reading JSON
-*Reading JSON* is a program for navigating through .json file. All ypu should do -
+*Reading JSON* is a program for navigating through .json file. All you should do -
 run main.py and know the path to your file.
 ## Functions
 Module consists of 3 different functions :
